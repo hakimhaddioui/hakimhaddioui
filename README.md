@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Software+Architect;Fullstack+Expert;Digital+Transformation+Leader" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Fullstack+Web+%26+Mobile;Flutter+%7C+React+%7C+Java+%7C+Python" alt="Typing SVG" />
       </td>
     </tr>
   </table>
