@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=300&section=header&text=HAKIM%20HADDIOUI&fontSize=70&animation=twinkling&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=300&section=header&text=HAKIM%20HADDIOUI&fontSize=70&animation=twinkling&fontAlignY=35&desc=Ing%C3%A9nieur%20Fullstack%20Mobile%20%26%20Web&descAlignY=55&descSize=20" width="100%" />
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Mastering+Multi-tenant+Architectures;Expert+Flutter+%2F+Django+%2F+React;Software+Craftsmanship+%26+Clean+Code;Cinematic+Photographer+%26+Storyteller" alt="Typing SVG" />
@@ -13,12 +13,12 @@
   <tr>
     <td width="60%">
       <h3>🚀 Background</h3>
-      <p><b>Ingénieur d'État (Bac+5) en Systèmes d'Information</b> spécialisé dans la transformation digitale[cite: 63, 64].</p>
-      <p>Expertise complète du cycle de vie logiciel : de l'architecture modulaire (UML/Merise) au déploiement Cloud sur environnements Linux (Ubuntu/SSH)[cite: 39, 40].</p>
+      [cite_start]<p><b>Ingénieur d'État (Bac+5) en Systèmes d'Information</b> spécialisé dans la transformation digitale[cite: 63, 64].</p>
+      [cite_start]<p>Expertise complète du cycle de vie logiciel : de l'architecture modulaire (UML/Merise) au déploiement Cloud sur environnements Linux (Ubuntu/SSH)[cite: 33, 39, 40].</p>
       <p>
         🌍 <b>Current Path :</b> Kénitra, Maroc 🇲🇦 ➔ Moving to Barcelona, Spain 🇪🇸<br>
-        ⚡ <b>Proven Impact :</b> Optimisation des flux système de <b>15%</b> lors de déploiements critiques.<br>
-        📧 <b>Secure Channel :</b> <a href="mailto:hakim.haddiouii@gmail.com">hakim.haddiouii@gmail.com</a> [cite: 4]
+        [cite_start]⚡ <b>Proven Impact :</b> Optimisation des flux système de <b>15%</b> lors de déploiements critiques[cite: 56].<br>
+        [cite_start]📧 <b>Secure Channel :</b> <a href="mailto:hakim.haddiouii@gmail.com">hakim.haddiouii@gmail.com</a> [cite: 4]
       </p>
     </td>
     <td width="40%" align="center">
@@ -50,8 +50,8 @@
 
 ## 🏗️ High-Scale Operations
 * [cite_start]**Multi-tenancy Architect (Flying Sales):** Développement de modules complexes pour les plateformes SaaS Apteed et Syndays[cite: 8, 10, 16].
-* [cite_start]**Industrial Infrastructure (ONCF):** Conception du Système de Veille Service (SVS) avec architecture modulaire Fullstack[cite: 21].
-* [cite_start]**Process Optimization (NearSecure):** Réduction du temps de traitement de 15% via une refonte architecturale logicielle[cite: 53, 56].
+* [cite_start]**Industrial Infrastructure (ONCF):** Conception du Système de Veille Service (SVS) avec architecture modulaire Fullstack[cite: 21, 22].
+* [cite_start]**Process Optimization (NearSecure):** Réduction du temps de traitement de 15% via une refonte architecturale logicielle[cite: 51, 56].
 
 ---
 
