@@ -30,10 +30,7 @@
         <li>Location : Kénitra 🇲🇦 </b></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>📈 Performance Metrics</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=hakimhaddioui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=007ACC" width="100%"/>
-    </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
