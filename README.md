@@ -25,10 +25,9 @@
     <td width="50%" valign="top">
       <h4>👤 Identity Card</h4>
       <ul>
-        <li><b>Ingénieur d'État (Bac+5)</b> en Systèmes d'Information[cite: 63].</li>
-        <li>Spécialiste des architectures <b>multi-tenants</b> (SaaS)[cite: 10].</li>
-        <li>Transition : Kénitra 🇲🇦 ➔ <b>Barcelona</b> 🇪🇸.</li>
-        <li>Focus : Clean Architecture & Scalabilité.</li>
+        <li><b>Ingénieur d'État (Bac+5)</b> en Systèmes d'Information et transofrmation digitale</li>
+        <li>Spécialiste: <b>FullStack web & mobile</b></li>
+        <li>Location : Kénitra 🇲🇦 </b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -40,19 +39,12 @@
     <td width="50%" valign="top">
       <h4>🚀 Career Milestones</h4>
       <ul>
-        <li><b>Flying Sales :</b> Lead Mobile/Web (Apteed & Syndays)[cite: 8].</li>
-        <li><b>ONCF :</b> Système de Veille Service (SVS)[cite: 21].</li>
-        <li><b>NearSecure :</b> Gain d'efficacité de <b>15%</b>[cite: 56].</li>
+        <li><b>Flying Sales :</b> Lead Mobile/Web (Apteed & Syndays)</li>
+        <li><b>ONCF :</b> Système de Veille Service (SVS)</li>
+        <li><b>NearSecure :</b> Gain d'efficacité de <b>15%</b</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Beyond the Code</h4>
-      <ul>
-        <li><b>Photography :</b> Cinematic & Corporate Portrait.</li>
-        <li><b>Gaming :</b> God of War III & FC Mobile.</li>
-        <li><b>Lifestyle :</b> Music storyteller (Taylor Swift).</li>
-      </ul>
-    </td>
+    
   </tr>
 </table>
 
