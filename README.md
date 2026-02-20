@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=300&section=header&text=HAKIM%20HADDIOUI&fontSize=80&animation=twinkling&fontAlignY=35&desc=Ingénieur%20Fullstack%20Mobile%20%26%20Web&descAlignY=55&descSize=25" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Java+%7C+React+%7C+Python;Architecte+Multi-tenant;Expert+Transformation+Digitale;Cinematic+Photographer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Java+%7C+React+%7C+Python;Ingénieur+FullStack+web+et+mobile" alt="Typing SVG" />
   </p>
 </div>
 
